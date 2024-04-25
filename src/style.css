@@ -1,0 +1,8 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.min-height-100vh {
+    min-height: 100vh;
+  }
+  .nav-link {
+    color: #fff;
+  }
